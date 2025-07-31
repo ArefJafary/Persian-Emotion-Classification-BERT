@@ -109,9 +109,6 @@ Persian-Emotion-Classification-BERT/
 │   ├── 01_preprocessing.ipynb       # Preprocessing and dataset formatting
 │   └── 02_finetuning.ipynb          # BERT fine-tuning code
 │
-├── models/
-│   └── final_model/                 # Saved trained model or Hugging Face export
-│
 ├── README.md                        # Project documentation
              
 
