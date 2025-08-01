@@ -107,7 +107,7 @@ Persian-Emotion-Classification-BERT/
 │
 ├── notebooks/
 │   ├── 01_preprocessing.ipynb       # Preprocessing and dataset formatting
-│   └── 02_finetuning.ipynb          # BERT fine-tuning code
+│   └── 02_tuning.ipynb              # BERT fine-tuning code
 │
 ├── README.md                        # Project documentation
              
